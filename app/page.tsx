@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <main className="w-screen">
       <Navbar />
-      <section className="mx-auto flex max-w-screen-xl flex-col text-neutral-700 lg:flex-row hero-screen items-center">
+      <section className="mx-auto flex max-w-screen-xl flex-col text-neutral-700 lg:flex-row hero-screen lg:items-center">
         <div className="m-2 rounded-lg bg-indigo-50 px-3 py-5 shadow-sm lg:px-12 lg:py-10 lg:h-[700px] drop-shadow">
           <div className="flex h-full flex-col items-start justify-center">
             <h1 className="mb-3 text-2xl font-medium lg:text-4xl">
