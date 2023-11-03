@@ -54,7 +54,7 @@ export default function LoginForm() {
           Log in <ArrowRightIcon className="ml-auto h-5 w-5 text-gray-50" />
         </button>
         <p className="mt-4 text-center text-sm">
-          Don't have an account yet?{" "}
+          Don&apos;t have an account yet?{" "}
           <Link
             href="/register"
             className="font-medium text-black underline underline-offset-1"
