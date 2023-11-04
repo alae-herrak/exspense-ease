@@ -12,7 +12,7 @@ export default function Navbar() {
 
   return (
     <header
-      className={`${portLligatSans.className} sticky top-0 w-full bg-gradient-to-r from-indigo-600 to-indigo-500 text-white shadow-lg`}
+      className={`${portLligatSans.className} fixed top-0 w-full bg-gradient-to-r from-indigo-600 to-indigo-500 text-white shadow-lg`}
     >
       <div className="mx-auto flex max-w-screen-xl flex-wrap items-center justify-between px-3 py-2">
         <Link href="/" className="flex items-center text-xl">
