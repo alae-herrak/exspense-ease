@@ -1,7 +1,7 @@
 import Image from "next/image";
 import { portLligatSans } from "@/app/ui/fonts";
 
-import RegisterForm from "@/app/ui/register-form";
+import RegisterForm from "@/app/ui/auth/register-form";
 
 export default function RegisterPage() {
   return (

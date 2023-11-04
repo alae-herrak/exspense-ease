@@ -1,7 +1,7 @@
 import Image from "next/image";
 import { portLligatSans } from "@/app/ui/fonts";
 
-import LoginForm from "@/app/ui/login-form";
+import LoginForm from "@/app/ui/auth/login-form";
 
 export default function LoginPage() {
   return (
